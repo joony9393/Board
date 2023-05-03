@@ -34,7 +34,7 @@
   - 사용자는 댓글 내용(텍스트)를 작성할 수 있다. 
 
 ## ERD 
-![ERD]![다운로드](https://user-images.githubusercontent.com/86875215/235945882-490e6ff7-0f9a-4988-86b2-e793edd4e245.png)
+![다운로드](https://user-images.githubusercontent.com/86875215/235945882-490e6ff7-0f9a-4988-86b2-e793edd4e245.png)
 
 
 ## Trouble Shooting
